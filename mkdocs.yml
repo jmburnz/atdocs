@@ -1,0 +1,29 @@
+site_name: Adaptivetheme 8.x Docs
+pages:
+- Home: index.md
+- Theme Generator: 'theme-generator.md'
+- Installation: 'install.md'
+- Extensions:
+    - 'Overview': 'ext/overview.md'
+    - 'Responsive menus': 'ext/responsive-menus.md'
+    - 'Image alignment and captions': 'ext/image-alignment-captions.md'
+    - 'Touch icons': 'ext/touch-icons.md'
+    - 'Fonts': 'ext/fonts.md'
+    - 'Title styles': 'ext/title-styles.md'
+    - 'Shortcode CSS': 'ext/shortcodes.md'
+    - 'Slideshows': 'ext/slideshows.md'
+    - 'Mobile blocks': 'ext/mobile-blocks.md'
+    - 'Custom CSS': 'ext/custom-css.md'
+    - 'CKEditor': 'ext/ckeditor.md'
+    - 'Developer tools': 'ext/devel-tools.md'
+    - 'Legacy browsers': 'ext/legacy-browsers.md'
+    - 'Markup overrides': 'ext/markup-overrides.md'
+- Layout settings:
+    - 'Overview': 'layout/overview.md'
+    - 'Breakpoints': 'layout/breakpoints.md'
+    - 'Row layouts': 'layout/row-layouts.md'
+    - 'Layout method': 'layout/layout-method.md'
+    - 'Max width overrides': 'layout/max-width.md'
+    - 'Backups': 'layout/backups.md'
+theme: readthedocs
+docs_dir: docs
