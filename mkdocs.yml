@@ -1,8 +1,8 @@
 site_name: Adaptivetheme 8.x Docs
 pages:
 - Home: index.md
-- Theme Generator: 'theme-generator.md'
 - Installation: 'install.md'
+- Theme Generator: 'theme-generator.md'
 - Extensions:
     - 'Overview': 'ext/overview.md'
     - 'Responsive menus': 'ext/responsive-menus.md'
