@@ -2,13 +2,21 @@
 
 Adaptivetheme supports Responsive menus for one menu block - typically your main navigation block.
 
-There are seven responsive menus styles and you can choose any one of them for either the default or responsive style.
+There are eight responsive menus styles and you can choose any one of them for either the default or responsive style.
 
-### Menu block
+![Responsive menu settings](img/Responsive-Menu-Settings.png)
+
+### Menu
 
 Select any menu block to use as the responsive menu. This block can be placed in any region but must be enabled before it will show in the list.
 
 While the menu block can be in any region some thought is required here with regards to the style fo menu, for example it will not make sense to use a drop-menu style if the block is in a narrow sidebar region.
+
+#### Sub-menus not showing?
+
+- First configure your menu blocks "Maximum number of menu levels to display".
+- Next configure the actual menu items - each parent item must be set to "expanded".
+
 
 ### Breakpoints
 
