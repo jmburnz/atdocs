@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82309862-57bb-4625-ba65-6b1b72d5efd2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/ext/fonts.md" afterPath="$PROJECT_DIR$/docs/ext/fonts.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/breakpoints.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/ext/responsive-menus.md" afterPath="$PROJECT_DIR$/docs/ext/responsive-menus.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/font-awesome.md" afterPath="$PROJECT_DIR$/docs/font-awesome.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mkdocs.yml" afterPath="$PROJECT_DIR$/mkdocs.yml" />
     </list>
     <ignored path="ATDOCS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,15 +35,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="fonts.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/ext/fonts.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="864">
-                <caret line="81" column="48" selection-start-line="81" selection-start-column="48" selection-end-line="81" selection-end-column="48" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="notes.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notes.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -47,18 +48,8 @@
       <file leaf-file-name="mkdocs.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mkdocs.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="notes.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notes.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="20" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="450">
+              <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -68,8 +59,21 @@
         <entry file="file://$PROJECT_DIR$/docs/ext/responsive-menus.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="885">
-                <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <first_editor relative-caret-position="510">
+                <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="breakpoints.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/breakpoints.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -81,8 +85,8 @@
         <entry file="file://$PROJECT_DIR$/docs/font-awesome.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="330">
-                <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="84" />
+              <first_editor relative-caret-position="1044">
+                <caret line="179" column="28" selection-start-line="179" selection-start-column="28" selection-end-line="179" selection-end-column="28" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -136,11 +140,11 @@
         <option value="$PROJECT_DIR$/docs/ext/overview.md" />
         <option value="$PROJECT_DIR$/site/css/theme_extra.css" />
         <option value="$PROJECT_DIR$/docs/extra.css" />
-        <option value="$PROJECT_DIR$/docs/ext/responsive-menus.md" />
-        <option value="$PROJECT_DIR$/mkdocs.yml" />
-        <option value="$PROJECT_DIR$/docs/font-awesome.md" />
         <option value="$PROJECT_DIR$/docs/ext/ckeditor.md" />
         <option value="$PROJECT_DIR$/docs/ext/fonts.md" />
+        <option value="$PROJECT_DIR$/mkdocs.yml" />
+        <option value="$PROJECT_DIR$/docs/font-awesome.md" />
+        <option value="$PROJECT_DIR$/docs/ext/responsive-menus.md" />
       </list>
     </option>
   </component>
@@ -219,24 +223,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atdocs" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docs" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ext" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -294,12 +280,12 @@
       <workItem from="1467607820004" duration="4704000" />
       <workItem from="1467620487941" duration="1582000" />
       <workItem from="1467708159194" duration="355000" />
-      <workItem from="1467710662957" duration="30381000" />
+      <workItem from="1467710662957" duration="31570000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37022000" />
+    <option name="totallyTimeSpent" value="38211000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -688,36 +674,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mkdocs.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/font-awesome.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="84" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/ext/responsive-menus.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="885">
-            <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/ext/ckeditor.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -729,19 +685,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/ext/fonts.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="864">
             <caret line="81" column="48" selection-start-line="81" selection-start-column="48" selection-end-line="81" selection-end-column="48" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mkdocs.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/font-awesome.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1044">
+            <caret line="179" column="28" selection-start-line="179" selection-start-column="28" selection-end-line="179" selection-end-column="28" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/ext/responsive-menus.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="510">
+            <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/breakpoints.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

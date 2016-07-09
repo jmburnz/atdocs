@@ -15,9 +15,9 @@ Use the zero-width non-joiner character `&zwnj;` as a placeholder in the `<i></i
 
 You need to use at least two classes: `fa` and an icon class, for example:
 
-`<a href="https://www.drupal.org/">Drupal.org <i class="fa fa-drupal">&zwnj;</i></a>`
+`<a href="https://www.drupal.org/"><i class="fa fa-drupal">&zwnj;</i> Drupal.org</a>`
 
-Outputs: <a href="https://www.drupal.org/">Drupal.org <i class="fa fa-drupal">&zwnj;</i></a>
+Outputs: <a href="https://www.drupal.org/"><i class="fa fa-drupal">&zwnj;</i> Drupal.org</a>
 
 For in depth details on using Font awesome in content please see [Font awesome examples documentation](http://fontawesome.io/examples/).
 
@@ -28,75 +28,6 @@ Note: Adaptivetheme will automatically hide icons if Font awesome fails to load,
 .fa-loading .fa,
 .fa-unavailable .fa {
   display: none;
-}
-````
-
-## Colors and Transparencies
-
-Sub-themes include useful classes that match your themes colors, see `styles/css/components/color.css`.
-
-For SCSS see:
-````
-styles/uikit/partials/theme/_color.scss
-styles/uikit/partials/_variables.scss
-````
-
-````
-/**
- * Web fonts
- ============================================================================ */
-/* Override Font Awesome classes. */
-.fa-border {
-  border-color: #cccccc;
-}
-
-/*  Extra classes for Font Awesome. */
-.fa-text-color {
-  color: #363636;
-}
-
-.fa-text-color-light {
-  color: #808080;
-}
-
-.fa-text-color-medium {
-  color: #5c5c5c;
-}
-
-.fa-match-border {
-  color: #cccccc;
-}
-
-.fa-match-border-light {
-  color: #eeeeee;
-}
-
-.fa-match-link {
-  color: #0066cc;
-}
-
-.fa-trans-white-25 {
-  color: rgba(255, 255, 255, 0.25);
-}
-
-.fa-trans-white-50 {
-  color: rgba(255, 255, 255, 0.25);
-}
-
-.fa-trans-white-75 {
-  color: rgba(255, 255, 255, 0.75);
-}
-
-.fa-trans-black-25 {
-  color: rgba(0, 0, 0, 0.25);
-}
-
-.fa-trans-black-50 {
-  color: rgba(0, 0, 0, 0.25);
-}
-
-.fa-trans-black-75 {
-  color: rgba(0, 0, 0, 0.75);
 }
 ````
 
@@ -182,4 +113,74 @@ See:
 ````
 styles/uikit/partials/component/_breadcrumb.scss
 styles/uikit/partials/_variables.scss
+````
+
+
+## Colors and Transparencies
+
+Sub-themes include useful classes that match your themes colors, see `styles/css/components/color.css`.
+
+For SCSS see:
+````
+styles/uikit/partials/theme/_color.scss
+styles/uikit/partials/_variables.scss
+````
+
+````
+/**
+ * Web fonts
+ ============================================================================ */
+/* Override Font Awesome classes. */
+.fa-border {
+  border-color: #cccccc;
+}
+
+/*  Extra classes for Font Awesome. */
+.fa-text-color {
+  color: #363636;
+}
+
+.fa-text-color-light {
+  color: #808080;
+}
+
+.fa-text-color-medium {
+  color: #5c5c5c;
+}
+
+.fa-match-border {
+  color: #cccccc;
+}
+
+.fa-match-border-light {
+  color: #eeeeee;
+}
+
+.fa-match-link {
+  color: #0066cc;
+}
+
+.fa-trans-white-25 {
+  color: rgba(255, 255, 255, 0.25);
+}
+
+.fa-trans-white-50 {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.fa-trans-white-75 {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.fa-trans-black-25 {
+  color: rgba(0, 0, 0, 0.25);
+}
+
+.fa-trans-black-50 {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.fa-trans-black-75 {
+  color: rgba(0, 0, 0, 0.75);
+}
 ````

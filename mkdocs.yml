@@ -25,6 +25,7 @@ pages:
     - 'Layout method': 'layout/layout-method.md'
     - 'Max width overrides': 'layout/max-width.md'
     - 'Backups': 'layout/backups.md'
+- Breakpoints: 'breakpoints.md'
 - Font Awesome: 'font-awesome.md'
 theme: readthedocs
 docs_dir: docs
