@@ -4,6 +4,12 @@ Adaptivetheme supports Responsive menus for one menu block - typically your main
 
 There are eight responsive menus styles and you can choose any one of them for either the default or responsive style.
 
+Below is a montage of some of the styles you can use - clockwise from top left: Drop menu, Slide down, Overlay, Mega nav, Off canvas.
+
+![Responsive menu examples](img/Resp-Menu-Ex-Selection.png)
+
+Responsive menu styles are set in the Responsive Menus extension settings:
+
 ![Responsive menu settings](img/Responsive-Menu-Settings.png)
 
 ### Menu
