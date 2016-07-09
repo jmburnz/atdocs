@@ -72,7 +72,7 @@ Remember to refer to either Google "Specify in CSS", or Typekits _Using fonts in
 - For Google and Typekit enter the font name.
 
 #### Size
-You can override the font-size per element. Normally your sub-theme will provide font-sizes in the themes CSS, however here you can set your own sizes. ALl sizes are entiered in pixels and are converted to rem units before being saved. Both px and rem are used in the CSS for browsers that don' support rem.
+You can override the font-size per element. Normally your sub-theme will provide font-sizes in the themes CSS, however here you can set your own sizes. Sizes are entered in pixels and are converted to rem units before being saved. Both px and rem are used in the CSS for browsers that don't support rem.
 
 #### Font smoothing
 Smoothing can improve legibility for web fonts. Currently font smoothing is only supported by some browsers (Webkit and Firefox on OSX). Refer to the docs at [caniuse.com](http://caniuse.com/#feat=font-smooth).
