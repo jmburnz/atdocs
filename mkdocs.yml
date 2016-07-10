@@ -20,12 +20,14 @@ pages:
     - 'Legacy browsers': 'ext/legacy-browsers.md'
 - Layout settings:
     - 'Overview': 'layout/overview.md'
+    - 'Setting layouts': 'layout/setting-layouts.md'
     - 'Breakpoints': 'layout/breakpoints.md'
-    - 'Row layouts': 'layout/row-layouts.md'
-    - 'Layout method': 'layout/layout-method.md'
+    - 'Adding new regions': 'layout/new-regions.md'
+    - 'Template suggestions': 'layout/template-suggestions.md'
     - 'Max width overrides': 'layout/max-width.md'
+    - 'Layout method': 'layout/layout-method.md'
     - 'Backups': 'layout/backups.md'
-- Breakpoints: 'breakpoints.md'
+- Breakpoints & Media Queries: 'breakpoints.md'
 - Font Awesome: 'font-awesome.md'
 theme: readthedocs
 docs_dir: docs

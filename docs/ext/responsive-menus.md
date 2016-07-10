@@ -25,8 +25,8 @@ While the menu block can be in any region some thought is required here with reg
 
 
 ### Breakpoints
-``
-Breakpoints are supplied using Drupal cores Breakpoints module in and defined in `t_core.breakpoints.yml`. Please see the page on [Breakpoints](../breakpoints.md) for more information on at_core breakpoint groups.
+
+Breakpoints are supplied using Drupal cores Breakpoints module in and defined in `at_core.breakpoints.yml`. Please see the page on [Breakpoints](../breakpoints.md) for more information on at_core breakpoint groups.
 
 If you change the breakpoint group you will be prompted to save the theme settings so the form can reload with the new individual breakpoints in "Breakpoint" select list.
 
