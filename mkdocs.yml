@@ -25,7 +25,7 @@ pages:
     - 'Adding new regions': 'layout/new-regions.md'
     - 'Template suggestions': 'layout/template-suggestions.md'
     - 'Max width overrides': 'layout/max-width.md'
-    - 'Layout method': 'layout/layout-method.md'
+#    - 'Layout method': 'layout/layout-method.md'
     - 'Backups': 'layout/backups.md'
 - Breakpoints & Media Queries: 'breakpoints.md'
 - Font Awesome: 'font-awesome.md'
