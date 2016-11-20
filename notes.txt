@@ -3,3 +3,4 @@ Python commands:
 
 ps -fA | grep python
 
+mkdocs serve
