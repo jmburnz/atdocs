@@ -53,5 +53,5 @@ You can select from any valid Breakpoint group defined by any theme or module. T
 
 Breakpoints for Drupal 8 are declared in a YML text file at the root of your theme, or the root of the base theme, in this case at_core, i.e. `adaptivetheme/at_core/at_core.breakpoints.yml`
 
-To read more about how to declare your own breakpoints see the [Breakpoints & Media Queries](../breakpoints.md) page.
+To read more about how to declare your own breakpoints see the [Breakpoints & Media Queries](../theming/breakpoints.md) page.
 

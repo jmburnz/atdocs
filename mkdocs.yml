@@ -28,6 +28,7 @@ pages:
   - 'Backups': 'layout/backups.md'
 - Building Themes:
   - 'Introduction': 'theming/theming.md'
+  - 'Extensions vs Manual coding': 'theming/extensions-vs-code.md'
   - 'CSS or SCSS?': 'theming/css-vs-scss.md'
   - 'UIKit': 'theming/uikit.md'
   - 'Libraries': 'theming/libraries.md'
